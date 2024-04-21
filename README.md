@@ -4,6 +4,7 @@ This repo contains my neovim config written from scratch. It supports syntax hig
 ## Setup
 There are some requirements in order for this neovim config to work:
 - npm
+- unzip
 - build-essentials (or some C/C++ compilers for windows)
 
 to get the location where to clone this repo:
