@@ -5,5 +5,6 @@ local lsp = {
 	lua = 'lua_ls',
 	python = 'pyright',
 	vuejs = 'vls',
-	c = 'clangd'
+	c = 'clangd',
+	mason = 'svelte'
 }

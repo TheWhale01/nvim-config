@@ -6,6 +6,7 @@ local lsp_servers = {
 	'pyright',
 	'vls',
 	'clangd',
+	'svelte',
 }
 
 return lsp_servers
