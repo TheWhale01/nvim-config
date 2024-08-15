@@ -7,6 +7,7 @@ local lsp_servers = {
 	'vls',
 	'clangd',
 	'svelte',
+	'rust_analyzer',
 }
 
 return lsp_servers

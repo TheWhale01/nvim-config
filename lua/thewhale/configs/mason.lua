@@ -6,5 +6,6 @@ local lsp = {
 	python = 'pyright',
 	vuejs = 'vls',
 	c = 'clangd',
-	mason = 'svelte'
+	svelte = 'svelte',
+	rust = 'rust_analyzer'
 }
