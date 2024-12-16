@@ -1,5 +1,5 @@
 local lsp = {
-	ts = 'tsserver',
+	ts = 'ts_ls',
 	html = 'html',
 	css = 'css',
 	lua = 'lua_ls',
