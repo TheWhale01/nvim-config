@@ -12,5 +12,15 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-	{ import = "thewhale.plugins" },
+	spec = {
+		{ import = "thewhale.plugins" },
+	},
+	checker = {
+		enabled = true,
+		notify = false,
+	},
+	change_detection = {
+		notify = false,
+	},
+	lockfile = vim.fn.stdpath("state") .. "/lazy-lock.json",
 })

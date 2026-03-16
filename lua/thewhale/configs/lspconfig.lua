@@ -4,7 +4,7 @@ local lsp_servers = {
 	'cssls',
 	'lua_ls',
 	'pyright',
-	'vls',
+	'vue_ls',
 	'clangd',
 	'svelte',
 	'rust_analyzer',
